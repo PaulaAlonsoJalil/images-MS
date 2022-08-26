@@ -2,5 +2,5 @@ server:
   port: ${PORT:9998}
 message: Consumer configuration. Server is alive for DEV.
 
-string-uri1: https://www.google.es/search?q=
-string-uri2: &btnI=Voy+a+tener+suerte&hl=es&source=hp&ei=iwMJY632G8a8a-nUBQ&iflsig=AJiK0e8AAAAAYwkRmzUpHgyieIkkO2UOEAjk0FSR-O0a
+string-uri1: "https://www.google.es/search?q="
+string-uri2: "&btnI=Voy+a+tener+suerte&hl=es&source=hp&ei=iwMJY632G8a8a-nUBQ&iflsig=AJiK0e8AAAAAYwkRmzUpHgyieIkkO2UOEAjk0FSR-O0a"
